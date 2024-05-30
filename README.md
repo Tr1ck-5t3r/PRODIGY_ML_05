@@ -4,7 +4,7 @@ This Jupyter Notebook is designed to analyze food items and estimate their calor
 
 ## Dataset
 
-[The dataset]([URL](https://www.kaggle.com/datasets/kmader/food41))
+[The dataset](https://www.kaggle.com/datasets/kmader/food41)
 
 The dataset used in this project consists of images of various food items along with their corresponding calorie information. The dataset includes:
 
